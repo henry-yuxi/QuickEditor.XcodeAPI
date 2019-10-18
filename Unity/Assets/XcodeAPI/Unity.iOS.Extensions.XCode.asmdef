@@ -1,0 +1,10 @@
+{
+    "name": "Unity.iOS.Extensions.XCode",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
